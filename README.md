@@ -1,7 +1,7 @@
 # FFT_SoC
 1.项目简介
 
-设计一款256点定点FFT IP核（Q24.8格式），支持AXI4-Stream数据流接口。项目聚焦核心功能实现与基础验证流程，包含Verilog RTL设计、SystemVerilog验证环境搭建及基础覆盖率收集，适合初学者快速掌握IP开发全流程。
+设计一款256点定点FFT IP核（Q24.8格式），支持AXI4-Stream数据流接口。项目聚焦核心功能实现与基础验证流程，包含MATLAB算法建模、架构设计、Verilog RTL设计、SystemVerilog验证环境搭建及基础覆盖率收集，适合初学者快速掌握IP开发全流程。
 
 2.项目目标
 
