@@ -7,12 +7,15 @@
     
 3.项目内容
 3.1算法建模
+
 基于matlab软件进行算法建模，基-2 DIT FFT算法的核心是蝶形计算单元。
 
 3.2项目架构
+
 <img width="1506" height="875" alt="image" src="https://github.com/user-attachments/assets/893e85d1-517a-4f86-9ade-05b682a10e1d" />
 
 3.3RTL设计
+
 <img width="705" height="263" alt="image" src="https://github.com/user-attachments/assets/f6bc9619-f927-4399-a53f-5f5090fc02ea" />
 
 3.4验证环境架构（搭建中）
